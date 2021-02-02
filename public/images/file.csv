@@ -1,0 +1,4 @@
+﻿id,name,email,number,created_at,updated_at
+1,test-name-1,test@email.com,1234567890,2021-01-28T14:52:14.000000Z,2021-01-28T14:52:14.000000Z
+2,test-name-2,test@mail.com,1233455,2021-01-28T14:52:30.000000Z,2021-01-28T14:52:30.000000Z
+3,test-name-3,test@mail.com,312133,2021-01-28T14:52:44.000000Z,2021-01-28T14:52:44.000000Z
